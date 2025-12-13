@@ -48,7 +48,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-\`\`\`typescript
+```typescript
 const MohamedHussein = {
   location: "Egypt",
   education: "BSc Computer Science @ MSA University (2021-2025)",
@@ -64,7 +64,7 @@ const MohamedHussein = {
   currentFocus: "Building scalable AI-powered applications",
   contact: "mohamed.hussein811811@gmail.com"
 };
-\`\`\`
+```
 
 <br/>
 
