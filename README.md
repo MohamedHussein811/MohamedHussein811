@@ -270,7 +270,7 @@ My research explores **deep learning for urban navigation**, with published work
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedHussein811&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=MohamedHussein811&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies"/>
 
 <br/>
 
