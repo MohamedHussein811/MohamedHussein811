@@ -185,10 +185,10 @@ My research explores **deep learning for urban navigation**, with published work
 
 <!-- Project Cards -->
 <a href="https://github.com/MohamedHussein811">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=NeuraNote&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=neura-note&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
 </a>
 <a href="https://github.com/MohamedHussein811">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=Geno&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=meta-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
 </a>
 
 </div>
