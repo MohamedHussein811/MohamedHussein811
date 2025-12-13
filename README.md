@@ -6,7 +6,24 @@
 
 <!-- Animated Typing SVG with Multiple Lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Architecting+Scalable+Systems+%7C+Building+Intelligent+Solutions;1st+Place+Winner+%40+Deep+Minds+4+%7C+Published+Researcher;Founder+%40+NovaTech+%7C+Backend+Developer+%40+Technoam" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Architecting+Scalable+Systems+%7C+Building+Intelligent+Solutions;1st+Place+Winner+%40+Deep+Minds+4+%7C+Published+Researcher;Founder+%40+NovaTech+%7C+Backend+Developer+%40+Technoam](https://readme-typing-svg.demolab.com?
+font=JetBrains+Mono
+&weight=500
+&size=24
+&duration=3200
+&pause=900
+&color=818CF8
+&center=true
+&vCenter=true
+&multiline=false
+&repeat=true
+&width=700
+&height=35
+&lines=
+Backend+Engineer+%7C+Scalable+%26+Cloud+Systems;
+Founder+%40+NovaTech+%7C+Full-Stack+%26+AI+Solutions;
+Published+Researcher+in+AI+%26+Urban+Optimization
+)" alt="Typing SVG" />
 </a>
 
 <br/>
