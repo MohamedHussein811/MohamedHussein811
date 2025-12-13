@@ -1,249 +1,343 @@
+<!-- Complete redesign with animated SVG elements, snake animation, trophies, and professional styling -->
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hussein&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Researcher&descAlignY=52&descSize=18" width="100%"/>
+<!-- Animated Gradient Header with Soft Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:2d1b69&height=200&section=header&text=Mohamed%20Hussein&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Specialist%20%E2%80%A2%20Researcher&descAlignY=55&descSize=16&descColor=a5b4fc" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Building+Scalable+Web+%26+Mobile+Solutions;Passionate+about+AI%2FML+%26+Deep+Learning;Published+Researcher+%26+Tech+Entrepreneur" alt="Typing SVG" /></a>
+<!-- Animated Typing SVG with Multiple Lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Architecting+Scalable+Systems+%7C+Building+Intelligent+Solutions;1st+Place+Winner+%40+Deep+Minds+4+%7C+Published+Researcher;Founder+%40+NovaTech+%7C+Backend+Developer+%40+Technoam" alt="Typing SVG" />
+</a>
 
-<!-- Social Badges -->
+<br/>
+
+<!-- Animated Social Badges -->
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:mohamed.hussein811811@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-hussein-841068267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MohamedHussein811">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://mohamed-hussein.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mohamed.hussein811811@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MohamedHussein811&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/MohamedHussein811?tab=followers">
+    <img src="https://img.shields.io/github/followers/MohamedHussein811?style=for-the-badge&color=6366f1&labelColor=1a1b27&logo=github&label=Followers" alt="Followers"/>
+  </a>
+</p>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 \`\`\`typescript
-const mohamed = {
-    pronouns: "He" | "Him",
-    location: "Egypt 🇪🇬",
-    education: "BSc Computer Science @ MSA University (2021-2025)",
-    currentRoles: ["Backend Developer @ Technoam", "Founder @ NovaTech"],
-    interests: ["Full-Stack Development", "AI/ML", "Research", "Startups"],
-    funFact: "1st Place Winner at Deep Minds 4 Competition 🏆"
+const MohamedHussein = {
+  location: "Egypt",
+  education: "BSc Computer Science @ MSA University (2021-2025)",
+  roles: {
+    current: ["Backend Developer @ Technoam", "Founder @ NovaTech"],
+    expertise: ["Full-Stack Development", "AI/ML Engineering", "Research"]
+  },
+  achievements: {
+    competitions: "1st Place - Deep Minds 4",
+    publications: 3,
+    conferences: ["IMSA 2025", "ICACIN 2024", "MIUCC-24"]
+  },
+  currentFocus: "Building scalable AI-powered applications",
+  contact: "mohamed.hussein811811@gmail.com"
 };
 \`\`\`
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" width="280"/>
+<br/>
 
-I'm a **Full-Stack Developer** and **AI/ML Engineer** with expertise in building scalable web applications, mobile solutions, and intelligent systems. As the founder of **NovaTech**, I lead development teams delivering custom software solutions to enterprise clients.
+I architect **high-performance backend systems** and develop **intelligent applications** that solve real-world problems. As the founder of **NovaTech**, I lead teams delivering enterprise software solutions across web, mobile, and AI domains.
 
-My research contributions span **deep learning for urban pathfinding**, **health-aware route optimization**, and **real-time navigation systems**, with publications at international conferences including **IMSA 2025**, **ICACIN 2024**, and **MIUCC-24**.
+My research explores **deep learning for urban navigation**, with published works on health-aware route optimization and real-time pathfinding systems presented at international conferences.
 
-<br clear="right"/>
+<br clear="both"/>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Technology Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technology Stack
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+<!-- Languages -->
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,go,cpp,cs&theme=dark&perline=8" /></a>
+</details>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<!-- Frontend -->
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,vite,html,css&theme=dark&perline=8" /></a>
+</details>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<!-- Backend -->
+<details open>
+<summary><b>Backend Development</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,fastapi,graphql&theme=dark&perline=7" /></a>
+</details>
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- Database & Cloud -->
+<details open>
+<summary><b>Database & Cloud Infrastructure</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,aws,docker,vercel&theme=dark&perline=8" /></a>
+</details>
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<!-- AI/ML -->
+<details open>
+<summary><b>AI & Machine Learning</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</details>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Professional Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Professional Experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Technoam
-**Backend Developer** | *Aug 2025 - Present*
-- Developing scalable backend systems using Django
+### <img src="https://img.shields.io/badge/Technoam-4285F4?style=flat-square&logoColor=white" height="20"/> Backend Developer
+**Aug 2025 - Present**
+
+- Architecting scalable backend systems with Django
 - Managing AWS EC2 infrastructure (Linux/Windows)
-- Optimizing database performance for high-traffic apps
+- Optimizing database queries for high-traffic applications
+- Implementing CI/CD pipelines for deployment automation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 NovaTech (Founder)
-**Software Engineer** | *Aug 2024 - Present*
-- Founded tech startup delivering web, mobile & AI/ML solutions
-- Full-stack development with MERN stack & Flutter
-- Leading cross-functional development teams
+### <img src="https://img.shields.io/badge/NovaTech-6366F1?style=flat-square&logoColor=white" height="20"/> Founder & Lead Engineer
+**Aug 2024 - Present**
+
+- Founded tech startup delivering enterprise solutions
+- Full-stack development: MERN, Flutter, AI/ML integrations
+- Leading cross-functional teams of 5+ developers
+- Secured contracts with multiple enterprise clients
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 AiTech
-**Backend Developer** | *Sep 2024 - Feb 2025*
-- Designed RESTful APIs with Laravel PHP framework
-- Collaborated with frontend teams for seamless integration
+### <img src="https://img.shields.io/badge/AiTech-FF2D20?style=flat-square&logoColor=white" height="20"/> Backend Developer
+**Sep 2024 - Feb 2025**
+
+- Designed RESTful APIs using Laravel PHP framework
+- Integrated frontend systems via GraphQL endpoints
+- Implemented authentication & authorization flows
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Freelancing
-**Web & Mobile Developer** | *Jan 2022 - Present*
-- Built responsive websites and mobile apps
+### <img src="https://img.shields.io/badge/Freelance-10B981?style=flat-square&logoColor=white" height="20"/> Full-Stack Developer
+**Jan 2022 - Present**
+
+- Built 15+ responsive web & mobile applications
 - Integrated AI features and third-party APIs
+- Delivered projects for clients across 5 countries
 
 </td>
 </tr>
 </table>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Geno](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=geno&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB/geno)
-[![NeuraNote](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=neuranote&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB/neuranote)
-
-</div>
-
-### 🤖 Geno - Multi-Platform AI Chatbot
-> `FastAPI` `Meta API` `Supabase` `RAG` `OAuth`
-
-- Multi-platform chatbot integrating Meta APIs for Facebook, Instagram & WhatsApp Business
-- RAG-powered product recommendation engine with Supabase vector database
-- Real-time webhook messaging system with centralized business dashboard
-- Secure token management with role-based access for multi-account AI
-
-### 📚 NeuraNote - AI-Powered Learning Platform
-> `React.js` `Node.js` `FastAPI` `MongoDB` `OpenAI` `Groq Cloud`
-
-- RAG system supporting PDF, DOCX, and images for intelligent content analysis
-- AI-powered examination system with oral quizzes and automated test generation
-- Study management with time tracking, task scheduling & adaptive learning pathways
-
-### 🛒 E-Commerce Platforms (Nour Collection & Bonfila Chocolate)
-> `React.js` `Node.js` `MongoDB` `Redux` `Paymob`
-
-- Scalable multi-vendor marketplace with 4 user roles and RBAC
-- Full e-commerce functionality: catalog, cart, payments, inventory & analytics
-- Marketing automation with discount codes, dynamic pricing & CMS
-
-### 🔐 F3-IR Security Services
-> `React.js` `Node.js` `MongoDB` `JWT` `AES-128`
-
-- Professional corporate website with responsive design
-- AI-powered chatbot for customer service automation
-- Multi-layered security with 2FA and data encryption
-
----
-
-## 📄 Research Publications
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-| Publication | Conference | Date |
-|:------------|:-----------|:-----|
-| 🧠 **Adaptive Urban Pathfinding Using Deep Learning and Heuristic Optimization** | IMSA 2025 | July 2025 |
-| 🌿 **Health-aware Heuristic Modelling for Asthma-friendly Route Optimization** | ICACIN 2024, Birmingham City University | Dec 2024 |
-| 🚗 **Deep Heuristic Learning for Real-Time Urban Pathfinding** | MIUCC-24, Cairo | Nov 2024 |
+<!-- Project Cards -->
+<a href="https://github.com/MohamedHussein811">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=NeuraNote&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
+</a>
+<a href="https://github.com/MohamedHussein811">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=Geno&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
+</a>
 
 </div>
 
+<br/>
+
+<details>
+<summary><b>View All Projects</b></summary>
+<br/>
+
+### Geno - Multi-Platform AI Chatbot
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_API-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white)
+
+> Multi-platform chatbot integrating Meta APIs for Facebook, Instagram & WhatsApp Business with RAG-powered product recommendations and real-time webhook messaging.
+
 ---
 
-## 🏆 Achievements & Certifications
+### NeuraNote - AI-Powered Learning Platform
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+> AI-powered learning platform with RAG document analysis, automated test generation, oral quizzes, and adaptive study pathways.
+
+---
+
+### E-Commerce Platforms (Nour Collection & Bonfila)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+> Scalable multi-vendor marketplaces with RBAC, payment integration (Paymob), inventory management, and marketing automation.
+
+---
+
+### F3-IR Security Services
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AES-128](https://img.shields.io/badge/AES--128-DC382D?style=flat-square&logoColor=white)
+![2FA](https://img.shields.io/badge/2FA-10B981?style=flat-square&logoColor=white)
+
+> Corporate security services website with AI chatbot, multi-layered authentication, and AES-128 data encryption.
+
+</details>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Research & Publications
+
+<div align="center">
+
+| # | Publication | Venue | Status |
+|:-:|:------------|:------|:------:|
+| 1 | **Adaptive Urban Pathfinding Using Deep Learning and Heuristic Optimization** | IMSA 2025 | Accepted |
+| 2 | **Health-aware Heuristic Modelling for Asthma-friendly Route Optimization** | ICACIN 2024, Birmingham City University | Published |
+| 3 | **Deep Heuristic Learning for Real-Time Urban Pathfinding** | MIUCC-24, Cairo | Published |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Achievements & Certifications
 
 <div align="center">
 
 | Achievement | Issuer | Date |
-|:------------|:-------|:-----|
-| 🥇 **Deep Minds 4 - 1st Place Winner** | MSA University | Jan 2025 |
-| 📜 Certificate of Appreciation (Research) | MSA University | Jan 2025 |
-| 🧪 Software Testing & QA (30 Hours) | ITI | Jan 2025 |
-| 🎤 ICACIN 2024 Presentation Certificate | Birmingham City University | Dec 2024 |
-| 📱 Flutter Development (60 Hours) | ITI | Dec 2023 |
-| ☁️ Microsoft Azure Data Fundamentals | Microsoft | Jan 2023 |
+|:------------|:-------|:----:|
+| **Deep Minds 4 Competition - 1st Place** | MSA University | Jan 2025 |
+| Certificate of Appreciation (Research) | MSA University | Jan 2025 |
+| Software Testing & QA (30 Hours) | Information Technology Institute | Jan 2025 |
+| ICACIN 2024 Conference Presentation | Birmingham City University | Dec 2024 |
+| Flutter Mobile Development (60 Hours) | Information Technology Institute | Dec 2023 |
+| Microsoft Azure Data Fundamentals (DP-900) | Microsoft | Jan 2023 |
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" width="49%"/>
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedHussein811&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9&ring_color=818cf8" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHussein811&theme=tokyonight&hide_border=true&background=0D1117&stroke=818cf8&ring=818cf8&fire=f97316&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=6b7280" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316" width="98%"/>
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedHussein811&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies"/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedHussein811&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=818cf8&point=f97316&area=true&area_color=818cf8" width="98%" alt="Activity Graph"/>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedHussein811/MohamedHussein811/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedHussein811/MohamedHussein811/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MohamedHussein811/MohamedHussein811/output/github-snake.svg" />
+</picture>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
 
-<p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+<p><i>Open to collaborating on innovative projects and research opportunities</i></p>
 
-<a href="mailto:mohamed.hussein811811@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="tel:+201221575493"><img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+<br/>
+
+<a href="mailto:mohamed.hussein811811@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-hussein-841068267/">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://mohamed-hussein.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="tel:+201221575493">
+  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+</a>
 
 </div>
 
----
-
-<div align="center">
+<br/>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1a3e,100:0f0f23&height=120&section=footer" width="100%"/>
 
-**💡 "Building tomorrow's solutions with today's technology"**
-
+<div align="center">
+  <b>"Engineering solutions that bridge innovation and impact."</b>
 </div>
