@@ -179,22 +179,6 @@ My research explores **deep learning for urban navigation**, with published work
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-<!-- Project Cards -->
-<a href="https://github.com/MohamedHussein811">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=neura-note&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
-</a>
-<a href="https://github.com/MohamedHussein811">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHussein811&repo=meta-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f97316&text_color=c9d1d9" width="49%"/>
-</a>
-
-</div>
-
-<br/>
-
 <details>
 <summary><b>View All Projects</b></summary>
 <br/>
